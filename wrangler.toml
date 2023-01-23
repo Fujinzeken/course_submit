@@ -1,0 +1,9 @@
+name = "course_submit"
+main = "src/index.js"
+compatibility_date = "2023-01-19"
+account_id = "9839abf6959d5c892e95ae32b12c29c7"
+workers_dev = true
+
+[vars]
+AIRTABLE_BASE_ID = "appXjnDk09fizMwPJ"
+AIRTABLE_TABLE_NAME = "Courses"
